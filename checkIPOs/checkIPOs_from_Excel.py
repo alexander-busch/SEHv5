@@ -2,7 +2,10 @@
 """
 Created on Thu Apr  6 21:16:14 2023
 
-@author: AlexanderB
+@author: alexander.busch@alumni.ntnu.no
+
+Files: https://incose2.sharepoint.com/sites/SEHv5GermanTranslation >> SEHv5 >> Übersetzungsfiles >> Abbildungen >> IPO_consistency_check
+
 """
 
 
